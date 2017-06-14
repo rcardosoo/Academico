@@ -1,0 +1,19 @@
+Projeto feito pelos alunos:
+
+Rafael Cardoso - 20151370286
+Manoel Angelo  - 20151370340
+Walter Guedes  - 20151370
+
+Informações sobre o projeto:
+
+O programa foi implementado usando a seguinte sequência de execução:
+
+-> Após aberto, o programa cria a árvore binária de busca
+-> Chama a função indexar:
+	Se já existir um arquivo de dados, a função popula a árvore realizando a indexação.
+-> Chama a função sockservidor:
+	A função sockservidor transforma o programa em um servidor socket e espera receber
+	dados do cliente.
+-> Após obter os dados do cliente, o programa chama a função filtro, onde escolhe a opção
+setada pelo cliente com base na flag.
+

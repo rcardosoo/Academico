@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1459289106 source:c:\users\rafael\desktop\projetoed\projetoed\abb.c
+	"funcoes.h"
+
+1459291934 c:\users\rafael\desktop\projetoed\projetoed\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<winsock.h>
+	<winsock2.h>
+	<strings.h>
+
+1459293894 source:c:\users\rafael\desktop\projetoed\projetoed\index.c
+	"funcoes.h"
+
+1459294689 source:c:\users\rafael\desktop\projetoed\projetoed\main.c
+	"funcoes.h"
+
+1459295165 source:c:\users\rafael\desktop\projetoed\projetoed\servidor.c
+	"funcoes.h"
+
